@@ -7,14 +7,24 @@
 - 📫 How to reach me: https://www.linkedin.com/in/nicolas-fiorese/
 - ⚡ I’m a big Harry Potter fan!🦉
 <br>
-<div align="left">
+<div align="center">
   <a href="https://github.com/nicolasfiorese#user-activity-overview">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasfiorese&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4" height="200" alt="nicolasfiorese top languages used" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasfiorese&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true" alt="nicolasfiorese contributions overview" height="200" />
   </a>
 </div>
 <br>
-  
+<div>
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/12144463459)
+
+  </td>
+  <td width="50%">
+  </div>
+  <br>
   <div style="display: inline_block"><br>
   <img align="center" alt="Nico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nico-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
