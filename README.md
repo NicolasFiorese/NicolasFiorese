@@ -6,10 +6,11 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: https://www.linkedin.com/in/nicolas-fiorese/
 - ⚡ I’m a big Harry Potter fan!🦉
+<br>
 <div align="center">
   <a href="https://github.com/nicolasfiorese#user-activity-overview">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasfiorese&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4" height="220" alt="nicolasfiorese top languages used" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasfiorese&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true" alt="nicolasfiorese contributions overview" height="220" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasfiorese&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4" height="200" alt="nicolasfiorese top languages used" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasfiorese&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true" alt="nicolasfiorese contributions overview" height="200" />
   </a>
 </div>
 <br>
